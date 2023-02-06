@@ -1,0 +1,21 @@
+Advantages of using OO
+1. Reusing code is easier in object-oriented programming as objects can be reused and modified to create new objects. This saves time and reduces the amount of code that needs to be written.
+2. Object-oriented programming allows for inheritance, where objects can inherit properties and methods from a parent object. This makes it easier to manage code, as changes to the parent object can be inherited by the child objects.
+Disadvantage of using OO
+1. Object-Oriented Programming in Python can become quite complex, especially when dealing with large, complex systems. This can lead to difficulties in understanding, debugging, and maintaining the code.
+2. OOP can sometimes lead to slower code execution times, as the overhead of object creation, method calls, and inheritance can be significant. 
+Advantage of Dictionaries
+1. The size of dictionaries can be changed dynamically, allowing for the addition or removal of elements as needed.
+2. Dictionaries have a fast access time, making it efficient to retrieve elements.
+Disadvantage of Dictionaries
+1. The keys in a dictionary must be immutable, meaning you cannot change the values once they have been set.
+2. Dictionaries are not suitable for mathematical operations like sum, average, etc., as the keys and values are not in any particular order.
+
+Performance comparision for grading operation
+Time by OO: 0.04899787902832031 s 
+Time by Dictionary: 0.11299967765808105 s 
+OOP is faster; fraction of time OOP took is: 0.43
+Performance comparision for search operation
+Time by OO: 0.0021055980138167483 s 
+Time by Dictionary: 0.002000093460083008 s 
+Dictionary is faster; fraction of time Dictionary took is: 0.95

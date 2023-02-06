@@ -1,0 +1,15 @@
+File6.txt
+score:8.396465390279824
+['the', 'a', 'his', 'and', 'he']
+['back', 'man', 'clearing', 'throat.', 'from']
+
+File6.txt
+score:6.782215494488433
+['the', 'to', 'a', 'he', 'in']
+['the', 'lana', 'gustave', 'your', 'hard']
+
+File6.txt
+score:7.236494597839137
+['the', 'she', 'and', 'of', 'a']
+['her', 'her', 'next', 'wearing', 'result']
+
