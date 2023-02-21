@@ -25,6 +25,7 @@ def F1_factor(x):
     
     if not w1:
         return 0
+
     return len(set(w1))/len(w1)
 
 def F2_factor(x):
@@ -74,9 +75,9 @@ try:
             x=F.read().lower()
         
         net_score=4+F1_factor(x)*6+F2_factor(x)[0]*6-F3_factor(x)-F4_factor(x)-F5_factor(x)
-        #print(F1_factor(x),F2_factor(x),F3_factor(x),F4_factor(x),F5_factor(x))
+        #print(F1_factor(x),F2_factor(x),F3_factor(x),F4_factor(x),F5_factor(x))   
     
-        G.write(f"File{n}.txt\n")
+        G.write(f"File{i}.txt\n")
         G.write(f"score:{net_score}\n")
         G.write(f"{F2_factor(x)[1]}\n")
         G.write(f"{random.choices(words(x), k=5)}\n\n")

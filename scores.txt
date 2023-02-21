@@ -1,15 +1,15 @@
-File6.txt
-score:8.396465390279824
-['the', 'a', 'his', 'and', 'he']
-['back', 'man', 'clearing', 'throat.', 'from']
+File1.txt
+score:10.344594594594595
+['proin', 'eget', 'magna,', 'et', 'ligula.']
+['bibendum', 'consectetur', 'suscipit', 'eget', 'orci']
 
-File6.txt
+File2.txt
 score:6.782215494488433
 ['the', 'to', 'a', 'he', 'in']
-['the', 'lana', 'gustave', 'your', 'hard']
+['want', 'until', 'term', 'to', 'of']
 
-File6.txt
+File3.txt
 score:7.236494597839137
 ['the', 'she', 'and', 'of', 'a']
-['her', 'her', 'next', 'wearing', 'result']
+['belong', 'time,', 'the', 'for', 'long,']
 
