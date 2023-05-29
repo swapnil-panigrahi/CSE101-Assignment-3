@@ -1,15 +1,15 @@
 File1.txt
 score:10.344594594594595
 ['proin', 'eget', 'magna,', 'et', 'ligula.']
-['bibendum', 'consectetur', 'suscipit', 'eget', 'orci']
+['magna,', 'felis', 'rutrum', 'rutrum', 'proin']
 
 File2.txt
 score:6.782215494488433
 ['the', 'to', 'a', 'he', 'in']
-['want', 'until', 'term', 'to', 'of']
+['one', 'wouldâ€™ve', 'says,', 'stayâ¬ing', 'hard']
 
 File3.txt
 score:7.236494597839137
 ['the', 'she', 'and', 'of', 'a']
-['belong', 'time,', 'the', 'for', 'long,']
+['before', 'of', 'became', 'of', 'when']
 
